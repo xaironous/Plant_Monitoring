@@ -1,4 +1,4 @@
-# Plant_Monitoring# 🌱 IoT-Based Stevia Plant Monitoring & Irrigation System
+# 🌱 IoT-Based Stevia Plant Monitoring & Irrigation System
 
 This project implements an **IoT-based system** for monitoring and automating the irrigation process of **Stevia plants** using **ESP32** and **MQTT**. The system collects **soil moisture and pH data**, then controls a **water pump** based on predefined thresholds or remote commands via MQTT.
 
